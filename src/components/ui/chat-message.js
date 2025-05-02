@@ -1,3 +1,5 @@
+"use client";
+
 import { motion } from 'framer-motion';
 import { Avatar, AvatarFallback, AvatarImage } from './avatar';
 import { cn } from '@/lib/utils';

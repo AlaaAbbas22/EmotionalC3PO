@@ -5,7 +5,6 @@ import { motion } from 'framer-motion';
 import axios from 'axios';
 import { ChatMessage } from '@/components/ui/chat-message';
 import { ChatInput } from '@/components/ui/chat-input';
-import { VisualDisplay } from '@/components/ui/visual-display';
 import { Button } from '@/components/ui/button';
 import { Loader2 } from 'lucide-react';
 import '@google/model-viewer';
